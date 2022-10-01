@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Who are we?
+# Recreational Programming Club
 
-![image](rpc_ebi.png)
+<img style="float: left; margin-right:10px;" src="rpc_ebi.png" width="200">
+
 
 
 Hey folks! 
