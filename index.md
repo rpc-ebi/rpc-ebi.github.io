@@ -4,9 +4,6 @@ layout: default
 
 # Recreational Programming Club
 
-<img style="float: left; margin-right:10px;" src="rpc_ebi.png" width="200">
-
-
 
 Hey folks! 
 It is a web-page of the EBI (European Bioinformatics Institute) based recreational programming club (RPC), which means that we just love problem solving, and do it for fun. However, there are some other purposes behind too: (1) we strive for perfection, so want to develop algorithmic thinking and make our future soft as efficient as possible, (2) we love our planet, so advocate for green computing.
