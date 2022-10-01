@@ -8,10 +8,10 @@ layout: default
 Hey folks! 
 It is a web-page of the EBI (European Bioinformatics Institute) based recreational programming club (RPC), which means that we just love problem solving, and do it for fun. However, there are some other purposes behind too: (1) we strive for perfection, so want to develop algorithmic thinking and make our future soft as efficient as possible, (2) we love our planet, so advocate for green computing.
 
-Our club is open to anyone, but the meetings will be weekly in person on [put day later] in [room name] room at the EBI. If you are interested in joining us, but do not have access to the EBI's buildings, please email me: km858@cam.ac.uk.
+Our club is open to anyone, but the meetings will be weekly in person on [put day later] in [room name] room at the EBI. If you are interested in joining us, but do not have access to the EBI's buildings, please email me: [email](mailto:km858@cam.ac.uk).
 
 
-# Prerequisites. 
+# Prerequisites
 While we do not have any prerequisites and want to make RCP an inclusive and safe place for active learning, we think that knowing basics of data structures could be beneficial. 
 We would recommend a book [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) as a gentle into. 
 
@@ -44,4 +44,4 @@ Here we are going to save material related to each meeting.
 
 
 # Contacts
-If you have any question, you could contact me via [email](mailto:km858@cam.ac.uk) or on [twitter](https://twitter.com/khalimurt)
+If you have any question, you could contact me via [email](mailto:km858@cam.ac.uk) or on [twitter](https://twitter.com/khalimurt).
