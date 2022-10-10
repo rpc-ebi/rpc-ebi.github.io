@@ -40,8 +40,7 @@ As we want to make it fun and accessible for everyone, we would recommend plan t
 # Meetings
 Here we are going to save material related to each meeting. 
 
-[Link to another page](./another-page.html).
-
+1. [First meeting, 09.10.2022, The Skyline Problem](./another-page.html).
 
 # Contacts
 If you have any question, you could contact me via [email](mailto:km858@cam.ac.uk) or on [twitter](https://twitter.com/khalimurt).
